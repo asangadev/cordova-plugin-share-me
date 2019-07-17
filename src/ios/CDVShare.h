@@ -1,6 +1,6 @@
 #import <Cordova/CDV.h>
 
-@interface MMShare : CDVPlugin
+@interface CDVShare : CDVPlugin
 
 - (void)share:(CDVInvokedUrlCommand*)command;
 

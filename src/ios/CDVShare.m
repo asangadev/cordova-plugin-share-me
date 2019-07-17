@@ -1,7 +1,7 @@
-#import "MMShare.h"
+#import "CDVShare.h"
 #import <Cordova/CDV.h>
 
-@implementation MMShare
+@implementation CDVShare
 
 - (void)share:(CDVInvokedUrlCommand*)command
 {

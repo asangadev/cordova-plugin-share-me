@@ -26,10 +26,10 @@ id="cordova-plugin-share-me"
      <platform name="ios">
          <config-file target="config.xml" parent="/*">
              <feature name="Share">
-                 <param name="ios-package" value="MMShare" />
+                 <param name="ios-package" value="CDVShare" />
              </feature>
          </config-file>
-         <header-file src="src/ios/MMShare.h" />
-         <source-file src="src/ios/MMShare.m" />
+         <header-file src="src/ios/CDVShare.h" />
+         <source-file src="src/ios/CDVShare.m" />
      </platform>
 </plugin>
