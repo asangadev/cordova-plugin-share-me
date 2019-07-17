@@ -1,4 +1,4 @@
-package cordova-plugin-share-me;
+package cordovaPluginShareMe;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
@@ -37,6 +37,6 @@ import android.content.Intent;
             } catch(Error e) {
                 callbackContext.error(e.getMessage());
             }
-            
+
         }
     }

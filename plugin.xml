@@ -16,7 +16,7 @@ id="cordova-plugin-share-me"
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Share" >
-                <param name="android-package" value="cordova-plugin-share-me.Share"/>
+                <param name="android-package" value="cordovaPluginShareMe.Share"/>
             </feature>
         </config-file>
         <source-file src="src/android/Share.java" target-dir="src/nl/madebymark/share" />
