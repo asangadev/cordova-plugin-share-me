@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-share-me",
+  "version": "0.0.3",
+  "description": "Cordova plugin for Native Sharing",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asangadev/cordova-plugin-share-me.git"
+  },
+  "author": "Asanga Dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asangadev/cordova-plugin-share-me/issues"
+  },
+  "homepage": "https://github.com/asangadev/cordova-plugin-share-me#readme",
+  "keywords": [
+    "native share",
+    "cordova native share",
+    "apple native share",
+    "android native share",
+    "phonegap native share"
+  ]
+}
